@@ -19,8 +19,7 @@ upgradeGrid= () => {
         div.classList.add('square');
         grid.appendChild(div);
     }
-    console.log(userInt.value);
-}
+};
 
 const square = document.querySelector('div');
 square.addEventListener('mouseover', function(event) {
