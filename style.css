@@ -19,6 +19,7 @@ h1{
 }
 
 .grid{
+    margin-bottom: 20px;
     display: inline-grid;
     grid-template-columns: repeat(16, 2fr);
     grid-template-rows: repeat(16, 2fr);
